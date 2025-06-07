@@ -1,11 +1,3 @@
-# dsawithc-
-
-
-## day 1 
-
-- `Add two number in this program`
-
-```cpp
 #include<iostream>
 using namespace std;
 int main()
@@ -19,4 +11,6 @@ int main()
   cout<<"Multiplication of two number = "<<c;
 };
 
-```
+
+
+
